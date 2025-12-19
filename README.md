@@ -11,7 +11,7 @@ This tool intentionally exposes how **unauthenticated and insecure Modbus really
 
 > **This tool is for educational and authorized security testing only.**  
 >  
-> Do **NOT** run this against systems you do not own or have explicit permission to test.  
+> Do **NOT** run this against production systems or systems you do not own or have explicit permission to test.  
 > Modbus lacks authentication and safety controls—misuse can cause **process disruption, equipment damage, or safety incidents**.
 
 By using this tool, you accept full responsibility for how it is used.
